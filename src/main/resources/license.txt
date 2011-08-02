@@ -1,7 +1,7 @@
-Software Engineering Spreiter Commercial Software License Agreement: twinkle
+Heinrich Spreiter SwingFx.ch Commercial Software License Agreement: twinkle
 Version 1.0
 
-THIS DOCUMENT IS A LEGAL AGREEMENT (the "License Agreement") BETWEEN Software Engineering Spreiter ("We," "Us") AND YOU OR THE ORGANIZATION ON WHOSE BEHALF YOU ARE UNDERTAKING THE LICENSE DESCRIBED BELOW ("You") IN RELATION TO THE TWINKLE SOFTWARE (THE "Software"), AND ALL RELATED MATERIALS. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING THE SOFTWARE, YOU ACCEPT THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS LICENSE AGREEMENT, DO NOT PROCEED WITH THE DOWNLOADING, COPYING, INSTALLATION OR ANY OTHER USE OF THE SOFTWARE OR ANY PORTION THEREOF. THE SOFTWARE IS PROTECTED BY SWITZERLANDS COPYRIGHT LAWS AND INTERNATIONAL COPYRIGHT LAWS, AS WELL AS OTHER INTELLECTUAL PROPERTY LAWS AND TREATIES. THE SOFTWARE IS LICENSED, NOT SOLD.
+THIS DOCUMENT IS A LEGAL AGREEMENT (the "License Agreement") BETWEEN Heinrich Spreiter SwingFx.ch ("We," "Us") AND YOU OR THE ORGANIZATION ON WHOSE BEHALF YOU ARE UNDERTAKING THE LICENSE DESCRIBED BELOW ("You") IN RELATION TO THE TWINKLE SOFTWARE (THE "Software"), AND ALL RELATED MATERIALS. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING THE SOFTWARE, YOU ACCEPT THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS LICENSE AGREEMENT, DO NOT PROCEED WITH THE DOWNLOADING, COPYING, INSTALLATION OR ANY OTHER USE OF THE SOFTWARE OR ANY PORTION THEREOF. THE SOFTWARE IS PROTECTED BY SWITZERLANDS COPYRIGHT LAWS AND INTERNATIONAL COPYRIGHT LAWS, AS WELL AS OTHER INTELLECTUAL PROPERTY LAWS AND TREATIES. THE SOFTWARE IS LICENSED, NOT SOLD.
 
 THIS LICENSE AGREEMENT DESCRIBES YOUR RIGHTS WITH RESPECT TO THE SOFTWARE AND ITS COMPONENTS.
 
@@ -19,7 +19,7 @@ We provide You with binary code of the Software. You may use the Software as lib
 
 You may distribute the Software in any applications, frameworks, or elements (collectively referred to as an "Application" or "Applications") that you develop using the Software in accordance with this License Agreement, provided that such distribution does not violate the restrictions set forth in section 4 of this agreement. You must not remove, obscure or interfere with any copyright, acknowledgment, attribution, trademark, warning or disclaimer statement affixed to, incorporated in or otherwise applied in connection with the Software.
 
-You are required to ensure that the Software is not reused by or with any applications other than those with which You distribute it as permitted herein. For example, if You install the Software on a customer’s computer, that customer is not permitted to use the Software independently of Your application, and must be informed as such. 
+You are required to ensure that the Software is not reused by or with any applications other than those with which You distribute it as permitted herein. For example, if You install the Software on a customer’s computer, that customer is not permitted to use the Software independently of Your application, and must be informed as such.
 
 You will not owe Us any royalties for Your distribution of the Software in accordance with this License Agreement.
 
