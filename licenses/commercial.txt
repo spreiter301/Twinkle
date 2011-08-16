@@ -1,7 +1,7 @@
-Heinrich Spreiter SwingFx.ch Commercial Software License Agreement: twinkle
+Heinrich Spreiter SwingFx.ch Commercial Software License Agreement: twinkle and core
 Version 1.0
 
-THIS DOCUMENT IS A LEGAL AGREEMENT (the "License Agreement") BETWEEN Heinrich Spreiter SwingFx.ch ("We," "Us") AND YOU OR THE ORGANIZATION ON WHOSE BEHALF YOU ARE UNDERTAKING THE LICENSE DESCRIBED BELOW ("You") IN RELATION TO THE TWINKLE SOFTWARE (THE "Software"), AND ALL RELATED MATERIALS. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING THE SOFTWARE, YOU ACCEPT THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS LICENSE AGREEMENT, DO NOT PROCEED WITH THE DOWNLOADING, COPYING, INSTALLATION OR ANY OTHER USE OF THE SOFTWARE OR ANY PORTION THEREOF. THE SOFTWARE IS PROTECTED BY SWITZERLANDS COPYRIGHT LAWS AND INTERNATIONAL COPYRIGHT LAWS, AS WELL AS OTHER INTELLECTUAL PROPERTY LAWS AND TREATIES. THE SOFTWARE IS LICENSED, NOT SOLD.
+THIS DOCUMENT IS A LEGAL AGREEMENT (the "License Agreement") BETWEEN Heinrich Spreiter SwingFx.ch ("We," "Us") AND YOU OR THE ORGANIZATION ON WHOSE BEHALF YOU ARE UNDERTAKING THE LICENSE DESCRIBED BELOW ("You") IN RELATION TO THE TWINKLE AND/OR CORE SOFTWARE (THE "Software"), AND ALL RELATED MATERIALS. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING THE SOFTWARE, YOU ACCEPT THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS LICENSE AGREEMENT, DO NOT PROCEED WITH THE DOWNLOADING, COPYING, INSTALLATION OR ANY OTHER USE OF THE SOFTWARE OR ANY PORTION THEREOF. THE SOFTWARE IS PROTECTED BY SWITZERLANDS COPYRIGHT LAWS AND INTERNATIONAL COPYRIGHT LAWS, AS WELL AS OTHER INTELLECTUAL PROPERTY LAWS AND TREATIES. THE SOFTWARE IS LICENSED, NOT SOLD.
 
 THIS LICENSE AGREEMENT DESCRIBES YOUR RIGHTS WITH RESPECT TO THE SOFTWARE AND ITS COMPONENTS.
 
@@ -11,9 +11,9 @@ This is a license agreement and not an agreement for sale. We reserve ownership 
 
 Subject to the payment of the fee required and subject to the terms and conditions of this License Agreement, We grant to You a revocable, non- transferable and non-exclusive license (i) for Designated User(s) (as defined below) to install and use the Software on any workstations used exclusively by such Designated User and (ii) for You to install and use the Software in connection with unlimited workstations, solely in connection with distribution of the Software in accordance with sections 3 and 4 below. This license is not sublicensable except as explicitly set forth herein. "Designated User(s)" shall mean Your employee(s) acting within the scope of their employment or Your consultant(s) or contractor(s) acting within the scope of the services they provide for You or on Your behalf for whom You have purchased a license to use the Software.
 
-2. PERMITTED USES, MODIFICATIONS
+2. PERMITTED USES, SOURCE CODE, MODIFICATIONS
 
-We provide You with binary code of the Software. You may use the Software as library in any applications, frameworks, or elements (collectively referred to as an "Application" or "Applications") that you develop. You are not allowed to modify the Software in any way.
+We provide You with source code so that You can create Modifications of the original Software, where Modification means: a) any addition to or deletion from the contents of a file included in the original Software or previous Modifications created by You, or b) any new file that contains any part of the original Software or previous Modifications. While You retain all rights to any original work authored by You as part of the Modifications, We continue to own all copyright and other intellectual property rights in the Software.
 
 3. DISTRIBUTION
 
@@ -25,11 +25,13 @@ You will not owe Us any royalties for Your distribution of the Software in accor
 
 4. PROHIBITED USES
 
-You may not, without Our prior written consent, redistribute the Software other than by including the Software or a portion thereof within Your own product, which must have substantially different functionality than the Software and must not allow any third party to use the Software, or any portions thereof, for software development or application development purposes. You are explicitly not allowed to redistribute the Software as part of any product that can be described as a software development kit or library. You are not allowed to redistribute any part of the Software documentation. You may not change or remove the copyright notice from any of the files included in the Software.
+You may not, without Our prior written consent, redistribute the Software or Modifications other than by including the Software or a portion thereof within Your own product, which must have substantially different functionality than the Software or Modifications and must not allow any third party to use the Software or Modifications, or any portions thereof, for software development or application development purposes. You are explicitly not allowed to redistribute the Software or Modifications as part of any product that can be described as a software development kit or library. You are not allowed to redistribute any part of the Software documentation. You may not change or remove the copyright notice from any of the files included in the Software or Modifications.
+
+The Open Source version of the Software ("GPL Version") is licensed under the terms of the GNU General Public License versions 3.0 ("GPL") and not under this Agreement. If You, or another third party, has, at any time, developed all (or any portions of) the Application(s) using the GPL Version, You may not combine such development work with the Software and must license such Application(s) (or any portions derived there from) under the terms of the GNU General Public License version 3, a copy of which is located at http://www.gnu.org/copyleft/gpl.html.
 
 5. TERMINATION
 
-This License Agreement and Your right to use the Software will terminate immediately without notice if You fail to comply with the terms and conditions of this License Agreement. Upon termination, You agree to immediately cease using and destroy the Software, including all accompanying documents. The provisions of sections 4, 5, 6, 7, 8, 9 and 11 will survive any termination of this License Agreement.
+This License Agreement and Your right to use the Software and Modifications will terminate immediately without notice if You fail to comply with the terms and conditions of this License Agreement. Upon termination, You agree to immediately cease using and destroy the Software or Modifications, including all accompanying documents. The provisions of sections 4, 5, 6, 7, 8, 9 and 11 will survive any termination of this License Agreement.
 
 6. DISCLAIMER OF WARRANTIES
 
@@ -55,7 +57,7 @@ You are not entitled to any support for the Software under this Agreement. You a
 
 The license granted herein applies only to the version of the Software available when purchased in connection with the terms of this Agreement. Any previous or subsequent license granted to You for use of the Software shall be governed by the terms and conditions of the agreement entered in connection with purchase of that version of the Software. You agree that you will comply with all applicable laws and regulations with respect to the Software, including without limitation all export and re-export control laws and regulations.
 
-While redistributing the Software, You may choose to offer acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this Agreement. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on our behalf. You agree to indemnify, defend, and hold Us harmless from and against any liability incurred by, or claims asserted against, Us (i) by reason of Your accepting any such support, warranty, indemnity or additional liability; or (ii) arising out of the use, reproduction or distribution of Your Application, except to the extent such claim is solely based on the inclusion of the Software therein.
+While redistributing the Software or Modifications thereof, You may choose to offer acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this Agreement. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on our behalf. You agree to indemnify, defend, and hold Us harmless from and against any liability incurred by, or claims asserted against, Us (i) by reason of Your accepting any such support, warranty, indemnity or additional liability; or (ii) arising out of the use, reproduction or distribution of Your Application, except to the extent such claim is solely based on the inclusion of the Software therein.
 
 You agree to be identified as a customer of ours and You agree that We may refer to You by name, trade name and trademark, if applicable, and may briefly describe Your business in our marketing materials and web site.
 
@@ -63,7 +65,7 @@ You may not assign this License Agreement without Our prior written consent, whi
 
 You acknowledge that this License Agreement is complete and is the exclusive representation of our agreement. No oral or written information given by Us or on our behalf shall create a warranty or collateral contract, or in any way increase the scope of this License Agreement in any way, and You may not rely on any such oral or written information. No term or condition contained in any purchase order shall apply unless expressly accepted by Us in writing,
 
-There are no implied licenses or other implied rights granted under this Agreement, and all rights, save for those expressly granted hereunder, shall remain with Us and our licensors. In addition, no licenses or immunities are granted to the combination of the Software, as applicable, with any other software or hardware not delivered by Us to You under this Agreement.
+There are no implied licenses or other implied rights granted under this Agreement, and all rights, save for those expressly granted hereunder, shall remain with Us and our licensors. In addition, no licenses or immunities are granted to the combination of the Software and/or Modifications, as applicable, with any other software or hardware not delivered by Us to You under this Agreement.
 
 If any provision in this License Agreement shall be determined to be invalid, such provision shall be deemed omitted; the remainder of this License Agreement shall continue in full force and effect. If any remedy provided is determined to have failed for its essential purpose, all limitations of liability and exclusions of damages set forth in this Agreement shall remain in effect.
 
